@@ -1,0 +1,38 @@
+[
+    {
+"email": "Piyush@gmail.com",
+"firstName": "Piyush",
+"lastName": "Tam",
+"age": 30,
+"address":
+{
+"state": "MP",
+"city": "Bhopal",
+"country": "India",
+"zone":
+{
+"pin": 12345,
+"area": "Sector-62"
+}
+},
+"mobile": [1234567891, 2121212121]
+},
+{
+"email": "Piy@gmail.com",
+"firstName": "Piyu",
+"lastName": "Tamra",
+"age": 35,
+"address":
+{
+"state": "Delhi",
+"city": "New Delhi",
+"country": "India",
+"zone":
+{
+"pin": 123456,
+"area": "Sector-67"
+}
+},
+"mobile": [1234512345, 1111111111]
+}
+]

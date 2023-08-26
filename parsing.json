@@ -1,0 +1,17 @@
+{
+"email": "Piyush@gmail.com",
+"firstName": "Piyush",
+"lastName": "Tam",
+"age": 30,
+"address":
+{
+"state": "MP",
+"city": "Bhopal",
+"country": "India",
+"zone":
+{
+"pin": 12345,
+"area": "Sector-62"
+}
+}
+}
